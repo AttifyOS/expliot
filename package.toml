@@ -1,0 +1,8 @@
+[package_detail]
+name = "expliot"
+description = "A Framework for security testing and exploiting IoT products and IoT infrastructure"
+version = "0.9.11"
+source_url = "https://gitlab.com/expliot_framework/expliot"
+license = "AGPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
